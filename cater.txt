@@ -1,0 +1,11 @@
+Requirements for catering in college event 
+- list of food items
+- list of utnsils required
+- list of total people attentding the college event 
+- containers 
+-  burners 
+- cutting boards
+- cleaning equiptments
+- Table settings
+- serving tools
+- cooler box
